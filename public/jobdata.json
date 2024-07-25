@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "position": "Full-time",
+      "company": "Tech Innovators Inc.",
+      "location": "San Francisco, CA",
+      "apply_link": "https://example.com/software-engineer",
+      "image_link": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 2,
+      "title": "Marketing Manager",
+      "position": "Full-time",
+      "company": "Creative Solutions Ltd.",
+      "location": "New York, NY",
+      "apply_link": "https://example.com/marketing-manager",
+      "image_link": "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist",
+      "position": "Full-time",
+      "company": "Data Insights Corp.",
+      "location": "Austin, TX",
+      "apply_link": "https://example.com/data-scientist",
+      "image_link": " https://i.ibb.co/2qSc5pY/istockphoto-1562983249-170667a.webp"
+    },
+    {
+      "id": 4,
+      "title": "Graphic Designer",
+      "position": "Contract",
+      "company": "Design Pros",
+      "location": "Remote",
+      "apply_link": "https://example.com/graphic-designer",
+      "image_link": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=60"
+    },
+    {
+      "id": 5,
+      "title": "Product Manager",
+      "position": "Full-time",
+      "company": "Innovatech",
+      "location": "Seattle, WA",
+      "apply_link": "https://example.com/product-manager",
+      "image_link": "https://i.ibb.co/RTYdc4S/istockphoto-2149165099-170667a.webp"
+    },
+    {
+      "id": 6,
+      "title": "Customer Support Specialist",
+      "position": "Part-time",
+      "company": "Service Excellence Inc.",
+      "location": "Chicago, IL",
+      "apply_link": "https://example.com/customer-support",
+      "image_link": "https://i.ibb.co/0BKVck7/istockphoto-1983486907-170667a.webp"
+    }
+  ]
+  
